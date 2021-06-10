@@ -1,0 +1,13 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab_13\bin\Debug\lab11.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab_13\bin\Debug\lab11.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab_13\bin\Debug\lab11.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab_13\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab_13\obj\Debug\lab11.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab_13\obj\Debug\lab11.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab11\bin\Debug\lab11.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab11\bin\Debug\lab11.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab11\bin\Debug\lab11.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab11\obj\Debug\lab11.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\lab_13\lab11\obj\Debug\lab11.pdb

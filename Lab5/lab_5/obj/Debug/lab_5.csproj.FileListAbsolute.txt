@@ -1,0 +1,7 @@
+A:\3k2s\ЗИНИС\lab_5\lab_7\bin\Debug\lab_7.exe.config
+A:\3k2s\ЗИНИС\lab_5\lab_7\bin\Debug\lab_7.exe
+A:\3k2s\ЗИНИС\lab_5\lab_7\bin\Debug\lab_7.pdb
+A:\3k2s\ЗИНИС\lab_5\lab_7\obj\Debug\lab_5.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\lab_5\lab_7\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\lab_5\lab_7\obj\Debug\lab_7.exe
+A:\3k2s\ЗИНИС\lab_5\lab_7\obj\Debug\lab_7.pdb

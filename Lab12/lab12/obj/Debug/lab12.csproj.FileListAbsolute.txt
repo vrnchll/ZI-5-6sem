@@ -1,0 +1,10 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\bin\Debug\lab12.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\bin\Debug\lab12.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\bin\Debug\lab12.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\obj\Debug\lab12.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\obj\Debug\lab_14.Form1.resources
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\obj\Debug\lab12.Properties.Resources.resources
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\obj\Debug\lab12.csproj.GenerateResource.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\obj\Debug\lab12.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab12\lab_14\obj\Debug\lab12.pdb

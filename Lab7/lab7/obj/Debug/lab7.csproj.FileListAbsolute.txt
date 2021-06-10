@@ -1,0 +1,14 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\lab9\bin\Debug\lab9.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\lab9\bin\Debug\lab9.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\lab9\bin\Debug\lab9.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\lab9\obj\Debug\lab7.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\lab9\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\lab9\obj\Debug\lab9.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\lab9\obj\Debug\lab9.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\bin\Debug\lab7.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\bin\Debug\lab7.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\bin\Debug\lab7.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\obj\Debug\lab7.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\obj\Debug\lab7.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\Lab7\lab9\obj\Debug\lab7.pdb
