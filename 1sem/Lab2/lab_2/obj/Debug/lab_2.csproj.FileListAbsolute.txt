@@ -1,0 +1,13 @@
+D:\Study\Crypto\lab_2\lab_2\bin\Debug\lab_2.exe.config
+D:\Study\Crypto\lab_2\lab_2\bin\Debug\lab_2.exe
+D:\Study\Crypto\lab_2\lab_2\bin\Debug\lab_2.pdb
+D:\Study\Crypto\lab_2\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+D:\Study\Crypto\lab_2\lab_2\obj\Debug\lab_2.exe
+D:\Study\Crypto\lab_2\lab_2\obj\Debug\lab_2.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab_2\lab_2\bin\Debug\lab_2.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab_2\lab_2\bin\Debug\lab_2.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab_2\lab_2\bin\Debug\lab_2.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab_2\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab_2\lab_2\obj\Debug\lab_2.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab_2\lab_2\obj\Debug\lab_2.pdb

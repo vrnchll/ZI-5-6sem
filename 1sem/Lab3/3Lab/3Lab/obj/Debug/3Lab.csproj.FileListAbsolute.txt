@@ -1,0 +1,7 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab3\3Lab\3Lab\bin\Debug\3Lab.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab3\3Lab\3Lab\bin\Debug\3Lab.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab3\3Lab\3Lab\bin\Debug\3Lab.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab3\3Lab\3Lab\obj\Debug\3Lab.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab3\3Lab\3Lab\obj\Debug\3Lab.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab3\3Lab\3Lab\obj\Debug\3Lab.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\lab3\3Lab\3Lab\obj\Debug\3Lab.pdb

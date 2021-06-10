@@ -1,0 +1,10 @@
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\bin\Debug\lab9.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\bin\Debug\lab9.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\bin\Debug\lab9.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\obj\Debug\lab9.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\obj\Debug\LAB_9.Form1.resources
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\obj\Debug\lab9.Properties.Resources.resources
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\obj\Debug\lab9.csproj.GenerateResource.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\obj\Debug\lab9.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab9\LAB 9\obj\Debug\lab9.pdb

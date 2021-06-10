@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\11\11\bin\Debug\11.exe.config
+C:\Users\Asus\Desktop\11\11\bin\Debug\11.exe
+C:\Users\Asus\Desktop\11\11\bin\Debug\11.pdb
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.exe
+C:\Users\Asus\Desktop\11\11\obj\Debug\11.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab11\11\bin\Debug\11.exe.config
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab11\11\bin\Debug\11.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab11\11\bin\Debug\11.pdb
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab11\11\obj\Debug\11.csprojAssemblyReference.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab11\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab11\11\obj\Debug\11.exe
+A:\3k2s\ЗИНИС\ZI-5-6sem\1sem\Lab11\11\obj\Debug\11.pdb
